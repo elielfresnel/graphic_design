@@ -42,7 +42,7 @@ git clone https://github.com/elielfresnel/graphic_design.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Whatsaap](https://www.wa.me/+2290190330808).
 
 ### License
 
