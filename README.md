@@ -11,7 +11,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+  <h2 align="center">Fresnel - Personal portfolio</h2>
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -38,13 +38,13 @@ To run **jack-portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+sudo git clone https://github.com/elielfresnel/graphic_design.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
+git clone https://github.com/elielfresnel/graphic_design.git
 ```
 
 ### Contact
